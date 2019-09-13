@@ -1,7 +1,7 @@
 leetcode 经典题目
 
 1.简单难度
-0020.Valid Parentheses
+第一题：
 
 2.中等难度
 
