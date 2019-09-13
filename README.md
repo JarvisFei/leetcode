@@ -1,8 +1,8 @@
 leetcode 经典题目
 
-1.简单难度a.题目
+1.简单难度
 
-a.题目
+a.0020.Valid Parentheses
 
 2.中等难度
 
